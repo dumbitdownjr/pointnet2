@@ -1,4 +1,4 @@
-#!/bin/bash
+#/bin/bash
 TF_INC=/home/arafian-admin/Repos/lib/python3.5/site-packages/tensorflow/include
 TF_LIB=/home/arafian-admin/Repos/lib/python3.5/site-packages/tensorflow
 TF_PUB=/home/arafian-admin/Repos/lib/python3.5/site-packages/tensorflow/include/external/nsync/public
